@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Inventory</string>
+    <string name="facebook_app_id"> 872894724039490</string>
+    <string name="fb_login_protocol_scheme">fb872894724039490</string>
+    <string name="facebook_client_token">b250d2e196518684f7a4d569750493b6</string>
+</resources>

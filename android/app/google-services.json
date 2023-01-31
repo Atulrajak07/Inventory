@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852107352987",
+    "project_id": "inventroy-c23e1",
+    "storage_bucket": "inventroy-c23e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852107352987:android:c60d740d6339e5249d1f3e",
+        "android_client_info": {
+          "package_name": "com.example.inventory_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852107352987-fhi33dj69brsiht4j6qcdoqlb13plemr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hZbVRsEf1YmKal7w47QZ6muUYY8biH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852107352987-fhi33dj69brsiht4j6qcdoqlb13plemr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
